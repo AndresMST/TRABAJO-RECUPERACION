@@ -1,0 +1,19 @@
+Nombres:ANDRES MAURICIO
+Apellidos:SANCHEZ TRILLERAS
+Tipo documento:cedula 
+Número documento:1075318317
+Correo FET:andres_sancheztr@fet.edu.co
+Código FET:SOF120181038
+
+Responda las siguientes preguntas:
+
+a) ¿Para qué sirve el comando Git Commit?
+R:sirve para guardar cambios en el repositorio local
+
+b) ¿Para qué sirve el comando Pull Request?
+R:sirve para la inclusion en el repositorio master
+
+c) ¿Cuál es el objetivo principal de utilizar Git y Github?
+R:github permite trabajar en colaboración con otras personas de todo el mundo, planificar proyectos y realizar un seguimiento del trabajo.
+git: Guardar el historial de cambios sobre el código de un proyecto.
+Permitir a varias personas contribuir simultáneamente sobre un mismo proyecto.
